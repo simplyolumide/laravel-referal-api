@@ -1,6 +1,7 @@
 
 
-This project demos a super simple referral system built with Laravel. To read the tutorial I wrote for this, click [here](https://dev.to/simioluwatomi/let-s-build-a-super-simple-referral-system-with-laravel-1o3h)  .
+This is a referral system built with Laravel.
+User can invite other user, each user that register automatically have a referral link, they can share this link to friend and family on social media,each user count is track and user can register if they are not reffered by any user. There is an admin interface that allow admin to view all users from top users with the highest referral count to the list.
  
  To run the project
 
